@@ -1,0 +1,2 @@
+javac -classpath ..\..\dl\dist\hr-dl-1.0.jar;..\..\common\dist\hr-common.jar;..\..\bl\build\libs\bl.jar;..\build\libs\pl.jar;. *.java
+java -classpath ..\..\dl\dist\hr-dl-1.0.jar;..\..\common\dist\hr-common.jar;..\..\bl\build\libs\bl.jar;..\build\libs\pl.jar;. DesignationModelTestcase
