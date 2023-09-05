@@ -65,23 +65,23 @@ The above line will create a **hr-common.jar** file.
 ## DL: Data Layer
 To compile the following files: DAOException.java <br>
 ```bash
-HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\employee\management\hr\dl\exceptions\*.java
+HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\Employee\Management\hr\dl\exceptions\*.java
 ```
 To compile the following files: DesignationDTOInterface.java, EmployeeDTOInterface.java <br>
 ```bash
-HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\employee\management\hr\dl\interfaces\dto\*.java
+HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\Employee\Management\hr\dl\interfaces\dto\*.java
 ```
 To compile the following files: DesignationDAOInterface.java, EmployeeDAOInterface.java <br>
 ```bash
-HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\employee\management\hr\dl\interfaces\dto\*.java
+HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\Employee\Management\hr\dl\interfaces\dto\*.java
 ```
 To compile the following files: DesignationDTO.java, EmployeeDTO.java <br>
 ```bash
-HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\employee\management\hr\dl\dto\*.java
+HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\Employee\Management\hr\dl\dto\*.java
 ```
 To compile the following files: DesignationDAO.java, EmployeeDAO.java <br>
 ```bash
-HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\employee\management\hr\dl\dao\*.java
+HR\DL\src> javac -d ..\classes -classpath ..\..\common\dist\hr-common.jar;. com\Employee\Management\hr\dl\dao\*.java
 ```
 To compile **Testcases** <br>
 ```bash
