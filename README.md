@@ -103,3 +103,7 @@ HR\PL>gradle build
 ```bash
 HR\PL>java -classpath ..\common\dist\hr-common.jar;..\DL\dist\hr-dl-1.0.jar;..\BL\build\libs\BL.jar;build\libs\PL.jar;. com.employee.management.hr.pl.Main
 ```
+
+## User Interface 
+![UI](https://github.com/Amitpouranik-2/Employee-Management-HR-Application/assets/109301830/e8bbb374-71bd-4435-ad06-6b6df6a2e996)
+
